@@ -8,7 +8,7 @@ export const SearchBar = () => {
         type="text" 
         placeholder="Search for a place..." />
       </div>
-      <button className="w-fit h-full text-xl px-4 bg-[#4455da] rounded-md cursor-pointer">Search</button>
+      <button className="w-fit h-full text-md px-4 bg-[#4455da] rounded-md cursor-pointer">Search</button>
     </div>
   )
 }
